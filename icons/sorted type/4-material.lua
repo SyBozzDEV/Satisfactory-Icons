@@ -1,0 +1,20 @@
+return {
+	[363]="Blueprint Grid",
+	[364]="Grid",
+	[365]="Checkered",
+	[366]="Diagonal Lines",
+	[367]="Dots",
+	[368]="Rectangles",
+	[369]="None",
+	[370]="Radial Gradient",
+	[371]="Wave",
+	[372]="Vertical Gradient",
+	[373]="Horizontal Gradient",
+	[374]="Small FICSIT Checkmark",
+	[375]="FICSIT",
+	[610]="FICSMAS Logo",
+	[611]="FICSMAS Snowflake",
+	[612]="FICSMAS Checkmark Snowflakes",
+	[613]="FICSMAS Wrapping Paper",
+	[618]="FICSMAS Ugly Sweater"
+}
